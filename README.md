@@ -6,7 +6,7 @@
 * $#: Number of Arguments. # usually represents Number.
 * $@: All aguments. @ -> a -> all
 * $$: Process ID
-* $?: Exist Code
+* $?: Exit Code
 
 ## Quotes
 * Single Quote('): Nothing gets expanded, like raw string
