@@ -56,3 +56,7 @@ equal sign (=) looks for *string* equality, NOT numberic equality.
 * -le : Less than or equal to
 * -ge : Greater than or equal to
 
+## Debug script
+* Add `set -x` near the beginning of the script
+* Execute script via "-x" option: `bash -x myscript`
+The above two skills can show the commands which are being executed.
